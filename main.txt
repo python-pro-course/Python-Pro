@@ -1,2 +1,3 @@
 My first commit in Python Pro repository
-My second commit
+This is my second commit
+
